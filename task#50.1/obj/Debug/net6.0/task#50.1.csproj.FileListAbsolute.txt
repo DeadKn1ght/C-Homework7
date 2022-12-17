@@ -1,0 +1,15 @@
+C:\Users\DeadKn1ght\OneDrive\Desktop\c#\C#Homework7\task#50.1\obj\Debug\net6.0\task#50.1.csproj.AssemblyReference.cache
+C:\Users\DeadKn1ght\OneDrive\Desktop\c#\C#Homework7\task#50.1\obj\Debug\net6.0\task#50.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeadKn1ght\OneDrive\Desktop\c#\C#Homework7\task#50.1\obj\Debug\net6.0\task#50.1.AssemblyInfoInputs.cache
+C:\Users\DeadKn1ght\OneDrive\Desktop\c#\C#Homework7\task#50.1\obj\Debug\net6.0\task#50.1.AssemblyInfo.cs
+C:\Users\DeadKn1ght\OneDrive\Desktop\c#\C#Homework7\task#50.1\obj\Debug\net6.0\task#50.1.csproj.CoreCompileInputs.cache
+C:\Users\DeadKn1ght\OneDrive\Desktop\c#\C#Homework7\task#50.1\bin\Debug\net6.0\task#50.1.exe
+C:\Users\DeadKn1ght\OneDrive\Desktop\c#\C#Homework7\task#50.1\bin\Debug\net6.0\task#50.1.deps.json
+C:\Users\DeadKn1ght\OneDrive\Desktop\c#\C#Homework7\task#50.1\bin\Debug\net6.0\task#50.1.runtimeconfig.json
+C:\Users\DeadKn1ght\OneDrive\Desktop\c#\C#Homework7\task#50.1\bin\Debug\net6.0\task#50.1.dll
+C:\Users\DeadKn1ght\OneDrive\Desktop\c#\C#Homework7\task#50.1\bin\Debug\net6.0\task#50.1.pdb
+C:\Users\DeadKn1ght\OneDrive\Desktop\c#\C#Homework7\task#50.1\obj\Debug\net6.0\task#50.1.dll
+C:\Users\DeadKn1ght\OneDrive\Desktop\c#\C#Homework7\task#50.1\obj\Debug\net6.0\refint\task#50.1.dll
+C:\Users\DeadKn1ght\OneDrive\Desktop\c#\C#Homework7\task#50.1\obj\Debug\net6.0\task#50.1.pdb
+C:\Users\DeadKn1ght\OneDrive\Desktop\c#\C#Homework7\task#50.1\obj\Debug\net6.0\task#50.1.genruntimeconfig.cache
+C:\Users\DeadKn1ght\OneDrive\Desktop\c#\C#Homework7\task#50.1\obj\Debug\net6.0\ref\task#50.1.dll
