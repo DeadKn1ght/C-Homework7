@@ -8,7 +8,7 @@
 
 Console.Clear();
 
-void FillArray(int[,] arr)
+void FillArray(double[,] arr)
 {
     for (int i = 0; i < arr.GetLength(0); i++)
     {
@@ -19,7 +19,7 @@ void FillArray(int[,] arr)
     }
 }
 
-void PrintArray(int[,] arr)
+void PrintArray(double[,] arr)
 {
     for (int i = 0; i < arr.GetLength(0); i++)
     {
@@ -31,16 +31,16 @@ void PrintArray(int[,] arr)
     }
 }
 
-void FindAverageColumns(int [,]arr)
+void FindAverageColumns(double [,]arr)
 {
     double summColumn = 0;
-     for (int i = 0; i < arr.GetLength(0); i++)
+     for (int i = 0; i < arr.GetLength(1); i++)
     {
-        for (int j = 0; j < arr.GetLength(1); j++)
+        for (int j = 0; j < arr.GetLength(0); j++)
         {
-           summColumn += arr[j,i];
+           if(j <= arr.GetLength(1))summColumn += arr[j,i];
         }
-        double avg = Math.Round(summColumn/(arr.GetLength(1)),1);
+        double avg = Math.Round(summColumn/(arr.GetLength(0)),1);
         System.Console.Write($"[{avg}] ");
         summColumn = 0;
     }
@@ -51,7 +51,7 @@ System.Console.WriteLine("Input Length of your array, rows :");
 int numberM = int.Parse(Console.ReadLine());
 System.Console.WriteLine("Input Length of your array, columns :");
 int numberN = int.Parse(Console.ReadLine());
-int[,] array = new int[numberM, numberN];
+double[,] array = new double[numberM, numberN];
 System.Console.WriteLine("Your array is :");
 FillArray(array);
 PrintArray(array);
